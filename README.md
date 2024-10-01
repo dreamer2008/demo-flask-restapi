@@ -13,6 +13,7 @@ To get started, follow these steps:
 
 * [Python 3.12](https://www.python.org)
 * [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+* [Flask-RESTX](https://flask-restx.readthedocs.io/en/latest/) - For REST APIs and OpenAPI documentation
 * [SQLAlchemy](https://www.sqlalchemy.org)
 * [SQLite](https://www.sqlite.org)
   
